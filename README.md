@@ -27,6 +27,6 @@ also backend should include more sub-endpoints for each payment method
 the order status should be changes in case of success : unpaid ---> paid 
 otherwise it will not changed from unpaid status .
 
-TODO : recheck the order status from orders endpoint to check for ani changes , key : payment_status
+**TODO** : recheck the order status from orders endpoint to check for ani changes , key : payment_status
 
 
