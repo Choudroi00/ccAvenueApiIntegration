@@ -7,10 +7,12 @@
 
 ## Required parameters :
 POST : 
-    - order_id (language)
-    - amount (not required just as confirmation)
-    - language (not required , default is EN)
-    - currency (not required , defaault is INR)
+| Paramenter | Description |
+-------------|-------------
+order_id | required*
+amount | (not required just as confirmation)
+language |(not required , default is EN)
+currency | (not required , defaault is INR)
 
 ## POST proccess description :
 
