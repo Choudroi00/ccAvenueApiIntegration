@@ -18,7 +18,7 @@ POST :
 
   here in front-end a webview must be shown to allow user choose payment method , fill required payment info , and complete the process 
 
-NOTE : the webview is required cuz it's all in one solution for different payment 
+**NOTE** : the webview is required cuz it's all in one solution for different payment 
 methods , without it fornt-end should include more UI views for available payment  methods 
 also backend should include more sub-endpoints for each payment method 
 
